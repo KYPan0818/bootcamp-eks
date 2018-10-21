@@ -29,7 +29,7 @@ This bootcamp provides instructions to create, manage, and scale a Kubernetes cl
 
 ### Horizontal Pod Autoscaler
 
- - [Horizontal Pod Autoscaler (HPA)](https://github.com/KYPan0818/bootcamp-eks/blob/master/05-scaling/)
+ - [Horizontal Pod Autoscaler (HPA)](https://github.com/KYPan0818/bootcamp-eks/blob/master/05-scaling/hpa.md)
 
 ## DevOps
 
